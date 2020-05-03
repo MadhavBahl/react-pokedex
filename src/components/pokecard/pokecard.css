@@ -1,0 +1,25 @@
+.pokecard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f6d743;
+    border: 1px solid #120136;
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;
+    backface-visibility: hidden;
+    transform: translateZ(0);
+    transition: transform 0.25s ease-out;
+    margin: 10px;
+    width: 150px;
+    flex-grow: 1;
+}
+
+.pokecard:hover {
+    transform: scale(1.05);
+}
+
+.pokemon-sprite {
+    height: 85px;
+    width: 85px;
+}
