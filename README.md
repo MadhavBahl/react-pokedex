@@ -13,6 +13,4 @@ Created the pokemon data (located in `./src/data/pokemonData.js`) using these 2 
 
 ## Interested in making this yourself?
 
-Checkout this webinar - 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dRFtde1kDpA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Checkout this webinar - https://www.youtube.com/embed/dRFtde1kDpA
