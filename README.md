@@ -1,6 +1,8 @@
 # React-Pokedex
 
-Learnning React Basics by Making Your Own Pokedex App (Blog coming soon!)
+Learnning React Basics by Making Your Own Pokedex App 
+
+See the complete tutorial now - [https://www.youtube.com/watch?v=knurN_gawww](https://www.youtube.com/watch?v=knurN_gawww)
 
 ## Special Thanks
 
